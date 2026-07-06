@@ -1,0 +1,1 @@
+Es importante que las comunidades creen sus propias herramientas tecnológicas porque pueden resolver problemas según sus necesidades. Tecnologías abiertas como Node.js son gratuitas y fáciles de usar. Además, permiten que más personas colaboren y mejoren las aplicaciones. Esto fomenta la innovación, el aprendizaje y la participación de la comunidad.
