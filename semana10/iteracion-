@@ -1,0 +1,14 @@
+Si no se muestra un backlog específico, una respuesta general podría ser:
+Implementar la funcionalidad principal del sistema.
+¿Por qué? Porque es la base sobre la que dependen otras tareas y permite validar que el proyecto avanza en la dirección correcta.
+Corregir los errores críticos (bugs).
+¿Por qué? Porque los errores importantes pueden impedir que el sistema funcione correctamente o afectar la experiencia del usuario.
+¿Qué significa que una tarea esté "terminada"?
+Para mí, una tarea está terminada cuando cumple con todos los requisitos acordados, funciona correctamente y está lista para integrarse al proyecto sin problemas.
+Definición simple de "Terminado" (Definition of Done)
+Una tarea se considera terminada cuando:
+✅ Funciona según lo solicitado.
+✅ Fue probada y no presenta errores importantes.
+✅ El código quedó registrado en Git con un commit adecuado.
+✅ Cumple con los criterios de aceptación establecidos.
+semana10.txt

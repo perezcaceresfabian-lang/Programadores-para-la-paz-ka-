@@ -1,0 +1,9 @@
+1. Como ciudadano quiero registrar una incidencia para dejar evidencia del caso.
+
+2. Como coordinador quiero recibir una alerta cuando se registre un nuevo reporte para revisarlo oportunamente.
+
+3. Como miembro del equipo quiero consultar los reportes registrados para hacer seguimiento a los casos.
+
+4. Como ciudadano quiero adjuntar fotografías o documentos al reporte para aportar evidencias.
+
+5. Como administrador quiero generar un listado de reportes para identificar las problemáticas más frecuentes de la comunidad.
