@@ -1,0 +1,14 @@
+Modelo básico de datos
+Entidad: Causa
+Campo
+Descripción
+id
+Identificador único de la causa.
+titulo
+Nombre o título de la petición.
+descripcion
+Explicación detallada del problema o la solicitud.
+fecha
+Fecha en que se creó la causa.
+¿Para qué sirve?
+La entidad Causa almacena la información principal de cada petición creada por un ciudadano. Representa el motivo por el cual se solicita apoyo.

@@ -1,0 +1,3 @@
+Evento que activa la automatización: Se registra un nuevo usuario en la plataforma.
+Mensaje que se envía: "Se ha registrado un nuevo usuario en la plataforma. Revisa el panel de administración para más detalles."
+Información que no debe enviarse por seguridad: Contraseñas, números de documento (cédulas), teléfonos, direcciones, correos electrónicos, datos bancarios, comentarios privados o cualquier otro dato personal sensible

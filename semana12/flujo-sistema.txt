@@ -1,0 +1,6 @@
+El ciudadano crea una nueva causa ingresando el título y la descripción.
+El sistema guarda la causa en la base de datos.
+Otros ciudadanos ingresan al sistema y apoyan la causa con un clic.
+El sistema cuenta automáticamente la cantidad de apoyos recibidos.
+Cuando la petición está lista, el sistema genera un documento PDF con la información de la causa y el número de apoyos.
+El ciudadano puede descargar o compartir el PDF para presentarlo ante la entidad correspondiente.
