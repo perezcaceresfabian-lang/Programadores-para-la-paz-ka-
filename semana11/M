@@ -1,0 +1,28 @@
+
+modelo-datos.txtEntidad: Causa
+
+Campos principales:
+
+- id
+- titulo
+- descripcion
+- categoria
+- fecha_creacion
+- estado
+
+Propósito:
+Guardar la información de las causas o proyectos comunitarios que los ciudadanos publican para informar necesidades o proponer iniciativas.
+
+Entidad: Apoyo
+
+Campos principales:
+
+- id
+- causa_id
+- usuario
+- fecha
+- tipo_apoyo
+
+Propósito:
+Registrar los apoyos que recibe cada causa, permitiendo hacer seguimiento a la participación de la comunidad y conocer el interés en cada iniciativa.
+

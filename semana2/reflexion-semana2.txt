@@ -1,0 +1,33 @@
+Porque la terminal le da a un desarrollador más control y velocidad 
+
+1. Permite moverse rápido entre carpetas y archivos sin depender del explorador gráfico.
+
+
+2. Facilita organizar proyectos (crear, mover, renombrar, borrar archivos).
+
+
+3. Ayuda a automatizar tareas repetitivas con comandos o scripts.
+
+
+4. Es clave para usar herramientas como Git, npm, Python, Docker, etc.
+
+
+5. Mejora la productividad en proyectos grandes.
+
+
+6. Muchos servidores se administran solo por terminal.
+
+
+7. Ayuda a entender mejor la estructura interna del sistema.
+
+
+8. Hace más fácil depurar errores y revisar logs.
+
+
+9. Es estándar en desarrollo backend, DevOps y cloud.
+
+
+10. Saber terminal = trabajar más rápido, ordenado y profesional 
+
+
+

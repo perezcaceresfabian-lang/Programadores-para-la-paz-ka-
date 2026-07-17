@@ -1,0 +1,5 @@
+curl -X POST http://localhost:3000/reportes \
+
+-H "Content-Type: application/json" \
+
+-d '{"tipo": "Infraestructura", "descripcion": "Daño en alumbrado público"}'
